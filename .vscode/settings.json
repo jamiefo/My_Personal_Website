@@ -1,0 +1,8 @@
+{
+    "emmet.excludeLanguages": [
+
+        "markdown"
+    ],
+    "window.zoomlevel":3,
+    "editor.fontSize":16
+}
